@@ -1,0 +1,61 @@
+20220220 - ikth-count-v10-nextjs-typescript-2022
+-version10: nextjs / typescript / react
+================ LEFT OFF 20220220
+-create counter component scaffold with display number & its three buttons (increment/decrement/reset)
+	-implement a bit of styles with bootstrap & sass
+		-CCC currently trying to do grid for the buttons in the Counter.tsx component
+
+================ DONE
+
+-check for any outdated modules & update if any
+
+-ensure page is working & on live server (netlify)
+	-master branch
+	-configure netlify configuration file (netlify.toml) to redirect all static routes (react-router) instead of using the typical _redirects file we used before
+		-you can set up your build too & etc
+
+-create layout for each route (eg. header / footer)
+
+-implement SASS & bootstrap
+	-install sass & bootstrap
+	-create custom & global sass
+
+================ TODO
+-create counter component scaffold with display number & its three buttons (increment/decrement/reset)
+	-implement a bit of styles with bootstrap & sass
+
+-implement counter logic for a working counter component
+
+-do remaining COME BACK
+
+-do lighthouse testing
+
+-do remaining WRITE IN YOUR NOTE DOC
+
+-check if repo name needs changing
+
+-README.md file
+
+-git commit & see deploy build was a success
+
+================ COME BACK
+
+================ SKIPPED TODOS
+
+================ WRITE IN YOUR NOTE DOC
+-typescript
+	-with importing, do not include the file extension, you can leave that empty and you will not have to use the comment keyword I believe
+
+================ NOTE TO SELF
+
+================ MISSION
+-version10: nextjs / typescript / react
+
+-single page with counter component
+
+-use of sass bootstrap too
+
+-deploy on netlify
+
+================ PLAYGROUND
+
