@@ -1,6 +1,21 @@
 @import "./customBootstrap.scss";
 @import url("https://fonts.googleapis.com/css2?family=Shizuru&display=swap");
 
+@include media-breakpoint-up(sm) {
+}
+
+@include media-breakpoint-up(md) {
+}
+
+@include media-breakpoint-up(lg) {
+}
+
+@include media-breakpoint-up(xl) {
+}
+
+@include media-breakpoint-up(xxl) {
+}
+
 // html,
 // body {
 //   padding: 0;

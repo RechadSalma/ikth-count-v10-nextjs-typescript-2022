@@ -4,11 +4,17 @@ import type { AppProps } from "next/app";
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <div>
-      <header>iK I am header</header>
-      <main className="w-auto p-3">
+      <header className={`bg-success p-2 text-white bg-opacity-75`}>
+        iK I am header
+      </header>
+
+      <main className="container  py-1">
         <Component {...pageProps} />
       </main>
-      <footer>iK I am footer</footer>
+
+      <footer className={`bg-success p-2 text-white bg-opacity-75`}>
+        iK I am footer
+      </footer>
     </div>
   );
 }
