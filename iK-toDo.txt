@@ -34,8 +34,9 @@
 
 -README.md file
 
-================ TODO
 -git commit & see deploy build was a success
+
+================ TODO
 
 ================ COME BACK
 
